@@ -10,7 +10,7 @@ namespace TestSolutionsTasksOfCodewars
     using System.Collections.Generic;
 
     [TestFixture]
-    public class TestKata
+    public class TestKataAnagrams
     {
         [Test]
         public void SampleTest()
